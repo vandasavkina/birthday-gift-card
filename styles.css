@@ -4,9 +4,12 @@ Change the site's background into a gradient that goes
 from blue at the top to pink at the bottom.
 */
 
+
 body {
     text-align: center;
-    font-family: 'Happy Monkey', cursive;
+    font-family: "Cantora One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
     background: linear-gradient(#9381ff, #00b4d8);
     color: #ffffff;
 }
@@ -21,7 +24,7 @@ body {
 }
 
 h1, h2, h3, h4, p {
-    text-shadow: 0 0 1px #3a0ca3;
+    text-shadow: 0 0 0 #3a0ca3;
 }
 
 #bff-img {
